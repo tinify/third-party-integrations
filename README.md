@@ -6,16 +6,21 @@ The list is also published every once in a while at https://tinypng.com/third-pa
 
 ## Adding your integration to the list
 
-Fork and clone this repository, and add a file named `{platform}-{integration name}.md`.
+1. Fork this repository
+2. Add a file named `{platform}-{integration name}.md` following requirements below.
+3. Create a pull request.
 
-The file name must be entirely lower case. The `platform` corresponds to the `platform` field in the file itself. The `integration name` can be a short name of your integration.
+## Requirements
+
+The file name must be formatted as **`{platform}-{integration name}.md`** and entirely lower case. The `platform` corresponds to the `platform` field in the file itself. The `integration name` can be a short name of your integration.
 
 The file contains two parts:
 1. Structured YAML "front-matter" with some metadata.
 2. A short description of the integration.
 
-
 ### Example:
+
+File `wordpress-tiny-compress-images.md`:
 
 ```
 ---
@@ -67,7 +72,7 @@ This is the full name of the software development agency or person that authored
 
 #### `developer_url`
 
-This is a link to the homepage of the developer. Preferably this would be a location where users can contact you if they have any questions about the integration.
+This is a link to the homepage of the developer. Preferably this would be a location where users can **contact you** if they have any questions about the integration.
 
 #### `price`
 
@@ -75,14 +80,14 @@ This is either `"Free"` or the price in the main currency that you charge users 
 
 #### `url`
 
-This is the location of the download page of the integration. It should describe the integration and offer a way for the user to install or download it in order to add it to their platform.
+This is the location of the **download page** of the integration. It should describe the integration and offer a way for the user to install or download it in order to add it to their platform.
 
 ### Description
 
-The description should contain the main features of your integration. For example, whether it supports resizing or preserving metadata, whether it optimizes images in the background, etcetera.
+The description should contain the **main features** of your integration. For example, whether it supports resizing or preserving metadata, whether it optimizes images in the background, etcetera.
 
 You could also provide more information about how it integrates exactly with the platform. For example, whether it optimizes images when they are uploaded by a user to the CMS, or whether they are optimized when the pages are published.
 
 Please avoid describing what TinyPNG or TinyJPEG is. Feel free to include this information on your download page, though.
 
-We'd prefer if this description is approximately between 80 and 160 characters.
+We'd prefer if this description is approximately **between 80 and 160 characters**.
