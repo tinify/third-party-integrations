@@ -20,15 +20,15 @@ The file contains two parts:
 ```
 ---
 collection: "Content management"
-platform: "macOS and Windows"
+platform: "WordPress"
 type: "Plugin"
-developer: "John Smith"
-developer_url: "https://example.com/about-john-smith"
+developer: "Tinify"
+developer_url: "https://tinypng.com/developers"
 price: "Free"
-url: "https://example.com/download-tinify-"
+url: "https://wordpress.org/plugins/tiny-compress-images/"
 ---
 
-Bamboo allows you to use your TinyPNG API key to losslessly compress local PNG/JPG's on your computer. It works by uploading your image to TinyPNG, then downloading the compressed output.
+Automatically optimizes user-uploaded images immediately or in the background. It also offers a bulk optimization tool to compress your existing media library.
 ```
 
 ### Fields required in front-matter
@@ -85,4 +85,4 @@ You could also provide more information about how it integrates exactly with the
 
 Please avoid describing what TinyPNG or TinyJPEG is. Feel free to include this information on your download page, though.
 
-We'd prefer if this description is approximately between 80 and 150 characters.
+We'd prefer if this description is approximately between 80 and 160 characters.
