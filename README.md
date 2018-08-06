@@ -33,7 +33,8 @@ price: "Free"
 url: "https://wordpress.org/plugins/tiny-compress-images/"
 ---
 
-Automatically optimizes user-uploaded images immediately or in the background. It also offers a bulk optimization tool to compress your existing media library.
+Automatically optimizes user-uploaded images immediately or in the background.
+It also offers a bulk optimization tool to compress your existing media library.
 ```
 
 ### Fields required in front-matter
