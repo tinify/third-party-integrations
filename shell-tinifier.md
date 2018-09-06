@@ -1,6 +1,6 @@
 ---
 collection: "Development"
-platform: "shell"
+platform: "Shell"
 type: "Script"
 developer: "Ameer Dawood"
 developer_url: "https://ameer.io"
