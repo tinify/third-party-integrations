@@ -8,4 +8,5 @@ price: "Free"
 url: "https://github.com/kyleduo/TinyPNG4Mac"
 ---
 
-This is a client of TinyPNG for Mac, with which you can compress pngs without open browser and manually download images, all you need to do is just drag and drop.
+An easy to use macOS client to compress your images without the need to open your
+browser or manually download the images. All you need to do is drag and drop.

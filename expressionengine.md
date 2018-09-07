@@ -8,4 +8,5 @@ price: "Free"
 url: "https://bitbucket.org/bulldogcreative/tinypng/overview"
 ---
 
-Installable extension for ExpressionEngine CMS. Original images will be stored in a seperate folder.
+Installable extension for ExpressionEngine CMS. Original images will be stored
+in a separate folder.

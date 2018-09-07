@@ -8,4 +8,5 @@ price: "$ 19.00"
 url: "https://straightupcraft.com/craft-plugins/tiny-image"
 ---
 
-Improve your websites performance by providing a clean and easy interface to easily optimize image sizes! Tiny Image is a plugin which allows you to provide a clean and easy to use interface for clients to compress their images using the TinyPNG API.
+Tiny Image is a Craft CMS plugin which provides a clean and easy to use
+interface for users to compress their images using the TinyPNG API.

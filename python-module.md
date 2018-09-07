@@ -8,4 +8,6 @@ price: "Free"
 url: "https://github.com/mbarkhau/tinypng/"
 ---
 
-Python module and command line tool for tinypng.com. Shrink PNG files. Advanced lossy compression for PNG images that preserves full alpha transparency. Now also works with JPEG files.
+Python module and command line tool to shrink PNG files. Advanced lossy
+compression for PNG images that preserves full alpha transparency. Now also
+works with JPEG files.

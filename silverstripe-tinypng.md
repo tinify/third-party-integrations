@@ -1,11 +1,12 @@
 ---
 collection: "Content management"
 platform: "SilverStripe"
-type: "Extension"
+type: "Module"
 developer: "Loz Calver"
 developer_url: "https://github.com/kinglozzer"
 price: "Free"
-url: "https://github.com/kinglozzer/silverstripe-tinypng"
+url: "https://addons.silverstripe.org/add-ons/kinglozzer/silverstripe-tinypng"
 ---
 
-An extension to SilverStripe's Image class to integrate with the TinyPNG API
+Image optimization for the popular SilverStripe framework and CMS. This module
+extends the Image class and integrates with the TinyPNG API.

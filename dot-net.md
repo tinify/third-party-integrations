@@ -8,4 +8,6 @@ price: "Free"
 url: "https://github.com/ctolkien/TinyPNG"
 ---
 
-This is a .NET wrapper around the TinyPNG.com image compression service. Supports .Net Core and full .Net Framework. Non-blocking async turtles all the way down. Byte[], Stream and File API's available.
+This is a .NET wrapper for TinyPNG. Supports .NET Core and full .NET
+Framework. Non-blocking async turtles all the way down. Byte[], Stream and
+File API's available.

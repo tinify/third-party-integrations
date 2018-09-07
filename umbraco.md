@@ -8,4 +8,6 @@ price: "Free"
 url: "https://tinifier.backend-devs.com/"
 ---
 
-Tinifier is a free Umbraco package for image compression that removes files size limits, supports Azure and is among top 50 Umbraco packages. It allows to dramatically reduced the size of PNG and JPEG images which positively influence on a page loading time and visitors loyalty.
+Tinifier is a free Umbraco package. It is among the top 50 packages, reduces
+the size of images dramatically, supports Azure, positively influences page
+loading and improves visitor loyalty.
