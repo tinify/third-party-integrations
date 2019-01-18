@@ -3,7 +3,7 @@ collection: "Content management"
 platform: "SilverStripe"
 type: "Module"
 developer: "Loz Calver"
-developer_url: "https://github.com/kinglozzer"
+developer_url: "https://www.bigfork.co.uk/silverstripe-developers/"
 price: "Free"
 url: "https://addons.silverstripe.org/add-ons/kinglozzer/silverstripe-tinypng"
 ---
