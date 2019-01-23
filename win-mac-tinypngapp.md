@@ -1,4 +1,3 @@
-
 ---
 collection: "Desktop"
 platform: "Windows / Mac OS"
