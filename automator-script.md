@@ -8,4 +8,5 @@ price: "Free"
 url: "https://technicalmarketing.guide/blog/how-to-compress-png-files/"
 ---
 
-Blog post describing how to use Automator on macOS to compress images on desktop without using your browser.
+Comprehensive blog post with code example describing how to use Automator on
+macOS to compress images on desktop without using your browser.

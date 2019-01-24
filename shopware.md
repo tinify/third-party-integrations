@@ -3,7 +3,7 @@ collection: "E-commerce"
 platform: "Shopware"
 type: "Plugin"
 developer: "Pixline Media"
-developer_url: "https://www.pixlinemedia.de/"
+developer_url: "https://www.pixlinemedia.de"
 price: "€ 49,00"
 url: "https://store.shopware.com/en/pix5121012767035/tinypng-and-tinyjpg-for-shopware.html"
 ---

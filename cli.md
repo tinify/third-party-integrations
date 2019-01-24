@@ -3,7 +3,7 @@ collection: "Development"
 platform: "npm"
 type: "CLI"
 developer: "websperts"
-developer_url: "https://websperts.com/"
+developer_url: "https://websperts.com"
 price: "Free"
 url: "https://www.npmjs.com/package/tinypng-cli"
 ---

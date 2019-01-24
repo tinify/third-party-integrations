@@ -8,4 +8,5 @@ price: "Free"
 url: "https://github.com/nagilum/tinify"
 ---
 
-C# wrapper for the Tinify (TinyPNG) API. You can also pass along credentials and info to upload the compressed file directly to Amazon S3.
+C# wrapper for the Tinify API. You can also pass along credentials and info to
+upload the compressed file directly to Amazon S3.

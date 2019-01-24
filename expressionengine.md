@@ -2,7 +2,7 @@
 collection: "Content management"
 platform: "ExpressionEngine"
 type: "Extension"
-developer: "Bulldog Creative Services"
+developer: "Bulldog Creative"
 developer_url: "https://www.bulldogcreative.com/"
 price: "Free"
 url: "https://bitbucket.org/bulldogcreative/tinypng/overview"
