@@ -1,11 +1,14 @@
 ---
 collection: "Desktop"
-platform: "Windows / Mac OS"
-type: "Plugin"
+title: "tinyPNG.App"
+platform: "macOS and Windows"
+type: "GUI"
 developer: "BetweenElements"
 developer_url: "https://www.betweenelements.com"
 price: "Free"
 url: "https://www.betweenelements.com/tinypng-app"
 ---
 
-Desktop GUI for tinyPNG API that allows for drag and drop image optimization and overwrite original option.
+This app provides a GUI front end for TinyPNG for your local computer so you
+can optimize images without opening up a browser. Also includes option to
+overwrite your original images.
