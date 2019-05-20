@@ -1,7 +1,7 @@
 ---
 collection: "Desktop"
 title: "tinyPNG.App"
-platform: "macOS and Windows"
+platform: "macOS, Windows and Linux"
 type: "GUI"
 developer: "BetweenElements"
 developer_url: "https://www.betweenelements.com"
