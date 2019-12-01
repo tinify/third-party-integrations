@@ -1,6 +1,6 @@
 ---
 collection: "Development"
-platform: "linux & windows"
+platform: "Shell"
 type: "CLI"
 developer: "tarampampam"
 developer_url: "https://github.com/tarampampam"
