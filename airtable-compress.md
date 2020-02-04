@@ -3,7 +3,7 @@ collection: "Content management"
 platform: "Airtable"
 type: "Extension"
 developer: "miniExtensions"
-developer_url: "https://github.com/aalzanki"
+developer_url: "https://miniExtensions.com"
 price: "$5/month"
 url: "https://miniextensions.com/bulk-image-compression-on-airtable/"
 ---
