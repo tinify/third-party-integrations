@@ -1,7 +1,7 @@
 ---
 collection: "Desktop"
 title: "Tinifier"
-platform: "Linux and Windows"
+platform: "macOS, Windows and Linux"
 type: "CLI"
 developer: "tarampampam"
 developer_url: "https://github.com/tarampampam"
