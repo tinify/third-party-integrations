@@ -1,5 +1,5 @@
 ---
-collection: "Desktop"
+collection: "Development"
 title: "Tinifier"
 platform: "macOS, Windows and Linux"
 type: "CLI"
