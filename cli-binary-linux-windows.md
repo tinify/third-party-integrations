@@ -1,6 +1,7 @@
 ---
 collection: "Development"
-platform: "Shell"
+title: "Tinifier"
+platform: "macOS, Windows and Linux"
 type: "CLI"
 developer: "tarampampam"
 developer_url: "https://github.com/tarampampam"
