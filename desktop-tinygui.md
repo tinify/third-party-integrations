@@ -4,7 +4,7 @@ title: TinyGUI
 platform: Windows
 type: App
 developer: CHENJING
-developer_url: http://www.redisant.cn/
+developer_url: https://github.com/chenjing1294/TinyGUI
 price: Free
 url: http://www.redisant.cn/#Family
 ---
