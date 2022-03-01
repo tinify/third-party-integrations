@@ -1,6 +1,6 @@
 ---
 collection: Development
-platform: Vue/Webpack
+platform: Webpack
 type: Plugin
 developer: laxnogithub
 developer_url: https://github.com/laxnogithub
