@@ -1,11 +1,11 @@
 ---
 collection: "Content management"
-platform: "WoltLab Suite 3"
+platform: "WoltLab Suite"
 type: "Plugin"
-developer: "SoftCreatR Media"
-developer_url: "https://www.softcreatr.com"
-price: "€ 19.99"
-url: "https://shop.softcreatr.com/product/83/"
+developer: "SoftCreatR.dev"
+developer_url: "https://softcreatr.dev"
+price: "€ 29.74"
+url: "https://www.woltlab.com/pluginstore/file/3136/"
 ---
 
-TinyImg is an all-in-one image processing solution for your WoltLab Suite 3 based community.
+TinyImg is an all-in-one image processing solution for your WoltLab Suite based community.
