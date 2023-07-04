@@ -8,4 +8,4 @@ price: "$ 9.00 / mo"
 url: "https://app.trypixie.io/"
 ---
 
-Pixie makes your webflow sites faster and optimizes them.
+Pixie makes your Webflow sites faster and optimizes them.
