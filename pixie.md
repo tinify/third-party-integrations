@@ -1,5 +1,6 @@
 ---
 collection: "Development"
+title: "Pixie"
 platform: "Pixie"
 type: "Plugin"
 developer: "Little Big Things"
