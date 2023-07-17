@@ -1,6 +1,5 @@
 ---
 collection: "Development"
-title: "Pixie"
 platform: "webflow CMS"
 type: "Plugin"
 developer: "Little Big Things"
