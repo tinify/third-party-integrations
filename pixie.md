@@ -8,4 +8,4 @@ price: "$ 9.00 / mo"
 url: "https://www.trypixie.io/"
 ---
 
-Pixie makes your Webflow sites faster and optimizes them.
+Supercharge your Webflow CMS with Pixie, an image optimizer powered by TinyPNG. Achieve faster load times and better SEO effortlessly!
