@@ -1,6 +1,6 @@
 ---
 collection: "Development"
-platform: "webflow CMS"
+platform: "Webflow CMS"
 type: "Plugin"
 developer: "Little Big Things"
 developer_url: "https://www.lilbigthings.com/"
