@@ -4,7 +4,7 @@ platform: "Concrete5"
 type: "Add-on"
 developer: "A3020"
 developer_url: "https://a3020.com/"
-price: "$ 34.00"
+price: Free
 url: "https://www.concrete5.org/marketplace/addons/image-optimizer/"
 ---
 
