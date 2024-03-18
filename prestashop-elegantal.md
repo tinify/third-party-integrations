@@ -4,7 +4,7 @@ platform: "PrestaShop"
 type: "Module"
 developer: "ELEGANTAL"
 developer_url: "https://addons.prestashop.com/en/236_elegantal"
-price: "€ 97,99"
+price: "€ 83.99"
 url: "https://addons.prestashop.com/en/website-performance/22488-image-compressor-with-tinypng.html"
 ---
 
