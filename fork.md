@@ -5,7 +5,7 @@ type: "Module"
 developer: "Jesse Dobbelaere"
 developer_url: "https://www.fork-cms.com/profile/jesse-d."
 price: "Free"
-url: "https://www.fork-cms.com/extensions/detail/compression"
+url: "https://github.com/friends-of-forkcms/fork-cms-module-compression"
 ---
 
 Compress PNG and JPG images on your website so they will use less bandwidth and
