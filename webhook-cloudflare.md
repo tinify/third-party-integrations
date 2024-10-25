@@ -1,9 +1,9 @@
 ---
 collection: "Development"
-platform: “Webhook”
-type: “Package”
-developer: “srvrlss.io”
-developer_url: “https://srvrlss.io”
+platform: "Webhook"
+type: "Package"
+developer: "srvrlss.io"
+developer_url: "https://srvrlss.io"
 price: "Free"
 url: "https://github.com/srvrlss-io/tinify-webhook-cloudflare"
 ---
