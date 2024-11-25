@@ -1,6 +1,6 @@
 ---
 collection: "Development"
-platform: "Webhook"
+platform: "Cloudflare Workers"
 type: "Package"
 developer: "srvrlss.io"
 developer_url: "https://srvrlss.io"
