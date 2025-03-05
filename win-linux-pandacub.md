@@ -8,4 +8,4 @@ price: "Free"
 url: "https://pandacub.app"
 ---
 
-A very easy to use desktop GUI for Tinypng where you can compress your images quickly and painlessly. It can process many images at the same time, keep or discard metadata and supports overwrite and scaling modes. It also keeps track of how many compressions you've done per month.
+A very easy to use desktop GUI for TinyPNG where you can compress your images quickly and painlessly using a pleasant interface. Drag as many images as you wish onto the app's window and you're done, is that simple. You can also keep or discard metadata, choose how you wish to overwrite or scale your images and keep track of how many compressions you've done per month.
