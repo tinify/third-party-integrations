@@ -1,6 +1,6 @@
 ---
 collection: Development
-platform: Node.js
+platform: npm
 type: MCP Server
 developer: kshern
 developer_url: https://github.com/kshern
