@@ -1,5 +1,6 @@
 ---
 collection: "Desktop"
+title: "Panda Cub App"
 platform: "Windows and Linux"
 type: "GUI"
 developer: "Walter Staeblein"
