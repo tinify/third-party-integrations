@@ -1,6 +1,6 @@
 ---
 collection: Desktop
-title: Tiny Pnger - Bulk tinifier
+title: Tiny Pnger
 platform: "macOS and Windows"
 type: App
 developer: Garsonix
@@ -9,4 +9,5 @@ price: £ 2.49
 url: https://www.garsonix.co.uk/TinyPnger
 ---
 
-Run Tiny Pnger on your desktop to compress images and folders of images keeping the folder structure. Great when you have lots of images to sort for a project.
+Desktop app that compresses and resizes JPG, PNG and WebP images in bulk
+with the Tinify API, keeping your folder structure and filenames.
