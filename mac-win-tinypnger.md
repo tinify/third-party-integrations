@@ -1,7 +1,7 @@
 ---
 collection: Desktop
 title: Tiny Pnger - Bulk tinifier
-platform: Windows
+platform: "macOS and Windows"
 type: App
 developer: Garsonix
 developer_url: https://www.garsonix.co.uk
