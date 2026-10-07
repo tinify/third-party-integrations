@@ -8,6 +8,5 @@ price: "Free"
 url: "https://apps.shopify.com/tinify-image-optimization"
 ---
 
-Automatically compress your Shopify product images with Tinify, on upload or
-in bulk, with optional WebP and AVIF conversion. Speed up your store while
-keeping originals safely backed up.
+Compresses Shopify product images with the Tinify API, on upload or in bulk,
+with optional WebP and AVIF conversion and copies of originals saved to Files.
