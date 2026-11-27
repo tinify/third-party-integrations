@@ -3,9 +3,9 @@ collection: "Content management"
 platform: "ProcessWire"
 type: "Client"
 developer: "Blowback Design"
-developer_url: "https://github.com/BlowbackDesign"
+developer_url: "https://github.com/BlowbackAgency"
 price: "Free"
-url: "https://github.com/BlowbackDesign/TinyPNG"
+url: "https://github.com/BlowbackAgency/TinyPNG"
 ---
 
 Adds image compression to your ProcessWire CMS. The client allows manual and
